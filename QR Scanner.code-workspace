@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../../../../Downloads/miniproject/miniproject"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.port": 5502,
+		"liveServer.settings.multiRootWorkspaceName": "Techdevs"
+	}
+}
